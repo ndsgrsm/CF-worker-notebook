@@ -1,6 +1,7 @@
 # 📒 Simple Notes Worker
 
 Simple web notebook deployed on cloudflare worker
+
 一个基于 Cloudflare Workers + KV 的轻量级在线笔记应用，支持加密保护、多设备访问、自动保存。
 
 ### 主要功能
